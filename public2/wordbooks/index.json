@@ -1,0 +1,119 @@
+[
+ {
+  "id": "lib-basic-500",
+  "file": "basic-500.json",
+  "name": "零基础 500 词",
+  "group": "基础",
+  "subtitle": "最常用的 500 个词，从这里起步",
+  "count": 500,
+  "license": "CC BY-SA 4.0 · 选词与排序来自 New General Service List 1.2（Browne, Culligan & Phillips）；释义来自 ECDICT（MIT）"
+ },
+ {
+  "id": "lib-daily-1000",
+  "file": "daily-1000.json",
+  "name": "日常交流 1000 词",
+  "group": "基础",
+  "subtitle": "日常对话里最常出现的 1000 个词",
+  "count": 1000,
+  "license": "CC BY-SA 4.0 · 选词与排序来自 New General Service List 1.2（Browne, Culligan & Phillips）；释义来自 ECDICT（MIT）"
+ },
+ {
+  "id": "lib-core-2000",
+  "file": "core-2000.json",
+  "name": "高频核心 2000 词",
+  "group": "基础",
+  "subtitle": "覆盖日常英语的大部分文本",
+  "count": 2000,
+  "license": "CC BY-SA 4.0 · 选词与排序来自 New General Service List 1.2（Browne, Culligan & Phillips）；释义来自 ECDICT（MIT）"
+ },
+ {
+  "id": "lib-core-3000",
+  "file": "core-3000.json",
+  "name": "高频核心 3000 词",
+  "group": "基础",
+  "subtitle": "按当代英语使用频率排序",
+  "count": 3000,
+  "license": "释义、词频与分级标签来自 ECDICT（MIT）"
+ },
+ {
+  "id": "lib-common-5000",
+  "file": "common-5000.json",
+  "name": "进阶常用 5000 词",
+  "group": "基础",
+  "subtitle": "按当代英语使用频率排序",
+  "count": 5000,
+  "license": "释义、词频与分级标签来自 ECDICT（MIT）"
+ },
+ {
+  "id": "lib-advanced-8000",
+  "file": "advanced-8000.json",
+  "name": "高阶词汇 8000 词",
+  "group": "基础",
+  "subtitle": "按当代英语使用频率排序",
+  "count": 8000,
+  "license": "释义、词频与分级标签来自 ECDICT（MIT）"
+ },
+ {
+  "id": "lib-middle-core",
+  "file": "middle-core.json",
+  "name": "初中英语 · 核心",
+  "group": "考试向",
+  "subtitle": "初中阶段常见词汇，按常用程度排序",
+  "count": 1551,
+  "license": "释义、词频与分级标签来自 ECDICT（MIT）"
+ },
+ {
+  "id": "lib-high-core",
+  "file": "high-core.json",
+  "name": "高中英语 · 核心",
+  "group": "考试向",
+  "subtitle": "高中阶段常见词汇，按常用程度排序",
+  "count": 3571,
+  "license": "释义、词频与分级标签来自 ECDICT（MIT）"
+ },
+ {
+  "id": "lib-college-basic",
+  "file": "college-basic.json",
+  "name": "大学英语 · 基础",
+  "group": "考试向",
+  "subtitle": "大学英语基础阶段常见词汇",
+  "count": 3810,
+  "license": "释义、词频与分级标签来自 ECDICT（MIT）"
+ },
+ {
+  "id": "lib-college-plus",
+  "file": "college-plus.json",
+  "name": "大学英语 · 进阶",
+  "group": "考试向",
+  "subtitle": "在「基础」之上再往前走的一批词",
+  "count": 1938,
+  "license": "释义、词频与分级标签来自 ECDICT（MIT）"
+ },
+ {
+  "id": "lib-postgrad-core",
+  "file": "postgrad-core.json",
+  "name": "研究生入学英语 · 高频",
+  "group": "考试向",
+  "subtitle": "研究生入学阶段常见词汇",
+  "count": 4778,
+  "license": "释义、词频与分级标签来自 ECDICT（MIT）"
+ },
+ {
+  "id": "lib-abroad-core",
+  "file": "abroad-core.json",
+  "name": "留学英语 · 核心",
+  "group": "考试向",
+  "subtitle": "出国留学阶段常见词汇",
+  "count": 8947,
+  "license": "释义、词频与分级标签来自 ECDICT（MIT）"
+ },
+ {
+  "id": "lib-academic-core",
+  "file": "academic-core.json",
+  "name": "学术英语 · 高频",
+  "group": "考试向",
+  "subtitle": "读论文、写报告时最常见的学术词",
+  "count": 950,
+  "license": "CC BY-SA 4.0 · 选词来自 New Academic Word List 1.2（Browne, Culligan & Phillips）；释义来自 ECDICT（MIT）"
+ }
+]
